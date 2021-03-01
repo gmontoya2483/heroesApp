@@ -21,6 +21,15 @@ Esta aplicación muestra el manejo de Rutas hijas y LazyLoad y como utilizar [An
 * Peticiones HTTP
 * JSON-Server
 * Angular Flex y Flexbox
+*  CRUD
+   *  Create
+    * Read
+    * Update
+    * Delete
+* Pipes puros e impuros
+* Snacks
+* Dialogs
+* Inyección de servicios manualmente
 
 ## Development server
 Ejecutar`ng serve` para el servidor de desarrollo. Navegar a  `http://localhost:4200/`. La aplicación será automaticamente recargada si se realizan cambios en el código fuente.
