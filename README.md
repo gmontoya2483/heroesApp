@@ -30,6 +30,14 @@ Esta aplicación muestra el manejo de Rutas hijas y LazyLoad y como utilizar [An
 * Snacks
 * Dialogs
 * Inyección de servicios manualmente
+* Protección de rutas
+* Rutas privadas
+* Rutas públicas
+* Servicio de autenticación
+* Guards
+* CanActivate
+* Can Load
+* Mantener la sesión del usuario
 
 ## Development server
 Ejecutar`ng serve` para el servidor de desarrollo. Navegar a  `http://localhost:4200/`. La aplicación será automaticamente recargada si se realizan cambios en el código fuente.
@@ -73,4 +81,4 @@ json-server --watch db.json
 
 
 ## Application en producción
-[HeroesApp](https://heroesapp-gabriel.netlify.app/404)
+[HeroesApp](https://heroesapp-gabriel.netlify.app)
